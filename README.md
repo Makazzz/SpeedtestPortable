@@ -42,7 +42,7 @@ is packaged in an installer and complete zip file.
 
 ## Credits
 
-*   Speedtest Portable is a distribution of the [Speedtest by Ookla](https://www.speedtest.net) app.
+*   Speedtest Portable is a redistribution of the [Speedtest by Ookla](https://www.speedtest.net) app.
 *   [PortableApps.com platform](https://portableapps.com/download) developed by the [PortableApps.com team](https://portableapps.com).
 
 ## License
