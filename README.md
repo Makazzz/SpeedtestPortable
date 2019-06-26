@@ -49,4 +49,4 @@ is packaged in an installer and complete zip file.
 
 *   Speedtest Portable released under [the MIT license](https://raw.githubusercontent.com/Makazzz/SpeedtestPortable/master/LICENSE).
 *   PortableApps.com Launcher released under [the GPL v2.0 license](https://raw.githubusercontent.com/Makazzz/SpeedtestPortable/master/SpeedtestPortable/Other/Source/LauncherLicense.txt).
-*   Speedtest [EULA](https://raw.githubusercontent.com/Makazzz/SpeedtestPortable/master/SpeedtestPortable/App/AppInfo/EULA.txt).
+*   Speedtest by Ookla [EULA](https://raw.githubusercontent.com/Makazzz/SpeedtestPortable/master/SpeedtestPortable/App/AppInfo/EULA.txt).
