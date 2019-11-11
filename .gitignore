@@ -1,5 +1,15 @@
+# Ignore App folder
+SpeedtestPortable/App/Speedtest
+SpeedtestPortable/App/Speedtest64
+
+# Ignore bin folder
+SpeedtestPortable/App/bin
+
 # Ignore Data folder
 SpeedtestPortable/Data
 
 # Ignore Work folder
 Work
+
+# Ignore log
+pac_installer_log.ini
