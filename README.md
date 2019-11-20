@@ -5,11 +5,11 @@
 # Speedtest Portable<a href="https://portableapps.com/"><img src="https://cdn.portableapps.com/portableapps.com_1546.png" width="309" height="45" alt="PortableApps.com - Your Digital Life, Anywhere" title="PortableApps.com - Your Digital Life, Anywhere" align="right"></a>
 
 <p align="center">
-	<a href="https://github.com/Makazzz/SpeedtestPortable/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Makazzz/SpeedtestPortable?color=0cf&logo=**Choose**"></a>
-	<a href="https://github.com/Makazzz/SpeedtestPortable/releases/latest"><img alt="GitHub Releases" src="https://img.shields.io/github/downloads/Makazzz/SpeedtestPortable/latest/total?color=blue"></a>
-	<a href="https://github.com/Makazzz/SpeedtestPortable/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Makazzz/SpeedtestPortable/total?color=0cf"></a>
-	<a href="https://github.com/Makazzz/SpeedtestPortable"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Makazzz/SpeedtestPortable?color=blue"></a>
-	<a href="https://raw.githubusercontent.com/Makazzz/SpeedtestPortable/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/Makazzz/SpeedtestPortable?color=0cf"></a>
+	<a href="https://github.com/Makazzz/SpeedtestPortable/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Makazzz/SpeedtestPortable?color=1ac4fa&logo=**Choose**"></a>
+	<a href="https://github.com/Makazzz/SpeedtestPortable/releases/latest"><img alt="GitHub Releases" src="https://img.shields.io/github/downloads/Makazzz/SpeedtestPortable/latest/total?color=70fdd3"></a>
+	<a href="https://github.com/Makazzz/SpeedtestPortable/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Makazzz/SpeedtestPortable/total?color=1ac4fa"></a>
+	<a href="https://github.com/Makazzz/SpeedtestPortable"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Makazzz/SpeedtestPortable?color=70fdd3"></a>
+	<a href="https://raw.githubusercontent.com/Makazzz/SpeedtestPortable/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/Makazzz/SpeedtestPortable?color=1ac4fa"></a>
 </p>
 
 Test your internet speed and see your result with Speedtest by Ookla.
