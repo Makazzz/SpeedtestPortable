@@ -1,5 +1,4 @@
 ${SegmentFile}
-Var CustomFirstRunDone
 
 ${SegmentPre}
 	${If} ${FileExists} "$PROFILE\AppData\LocalLow\Ookla\*.*"
