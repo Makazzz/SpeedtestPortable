@@ -23,6 +23,7 @@ and detect trends over time with data on:
 *	Ping
 *	Jitter
 *	Packet loss
+
 Available in 17 languages.
 
 My post on the [PortableApps.com forum](https://portableapps.com/node/60564)
